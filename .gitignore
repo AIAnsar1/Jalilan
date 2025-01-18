@@ -1,2 +1,9 @@
 
 .qodo
+*.o
+build/
+external/
+/.idea
+/.vscode
+/.zed
+/.fleet
