@@ -1,0 +1,3 @@
+/Users/corevoid/Desktop/projects/Jalilan/cmake-build-debug/CMakeFiles/Jalilan.dir
+/Users/corevoid/Desktop/projects/Jalilan/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/corevoid/Desktop/projects/Jalilan/cmake-build-debug/CMakeFiles/rebuild_cache.dir
